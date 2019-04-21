@@ -1,0 +1,4 @@
+app:
+  id: 'lab yml in [root]'
+  branch: 'master'
+  profile: 'default'

@@ -1,0 +1,4 @@
+app:
+  id: 'application yml in [root]'
+  branch: 'master'
+  profile: 'default'
