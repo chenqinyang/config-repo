@@ -1,4 +1,4 @@
 app:
-  id: 'lab yml in [root] - will it auto refresh?'
+  id: 'lab yml in [root] - will it auto refresh? update 2nd.'
   branch: 'dev'
   profile: 'uat'
