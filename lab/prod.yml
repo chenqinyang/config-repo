@@ -1,4 +1,4 @@
 app:
-  id: 'lab yml in [lab], with prod.yml only'
+  id: 'prod.yml in [lab]'
   branch: 'dev'
   profile: 'prod'

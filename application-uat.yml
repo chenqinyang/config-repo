@@ -1,4 +1,4 @@
 app:
-  id: 'application yml in [root]'
+  id: 'application-uat.yml in [root]'
   branch: 'dev'
   profile: 'uat'

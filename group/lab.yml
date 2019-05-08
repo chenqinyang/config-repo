@@ -1,4 +1,4 @@
 app:
-  id: 'lab yml in [group]'
+  id: 'lab.yml in [group]'
   branch: 'dev'
   profile: 'default'
