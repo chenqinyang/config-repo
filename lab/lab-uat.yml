@@ -1,0 +1,4 @@
+app:
+  id: 'lab yml in [lab], with lab-uat.yml'
+  branch: 'dev'
+  profile: 'uat'
